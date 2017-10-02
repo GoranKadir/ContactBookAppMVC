@@ -13,3 +13,5 @@ Instruktioner av kompilering av programet:
 Startar appen, du lägger till en eller flera kotakter på knappen Input new contact.
 Du kan se alla dina kontakter knappen med en kontaktbok som ikon.
 Sedan kan du och skriva en anteckning till en kontakt på anteckningsikonen. Du skriver in namnet till användaren du vill skriva en anteckning till. du skriver en anteckning och skickar trycker på send.
+
+OBS: Om du får nullpointerexception. Ta bort alla ImageIcons från view classerna. Och sedan starta appen på nytt.
